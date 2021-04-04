@@ -71,7 +71,7 @@
         "max-params": "error",
         "multiline-comment-style": [
             "error",
-            "separate-line"
+            "separate-lines"
         ],
         "new-cap": "error",
         "new-parens": "error",
